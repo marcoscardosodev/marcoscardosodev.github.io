@@ -1,11 +1,3 @@
-
-Política de Privacidade do Aplicativo EcoConsciente
-
-Última atualização: 26/05/2026
-
-Responsável pelo aplicativo: Marcos Cardoso
-Contato para assuntos de privacidade: marcoscfm6@gmail.com
-
 1. Apresentação
 
 Esta Política de Privacidade descreve como o aplicativo “EcoConsciente” acessa, utiliza e protege informações relacionadas aos usuários.
